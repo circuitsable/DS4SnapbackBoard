@@ -27,3 +27,9 @@ Basic soldering equipment.
 # Installation
 
 Solder the capacitors to their two available footprints on the PCB, allign the PCB in the middle of the joystick footprint on the back of your DS4 board, solder the 4 big pads first to keep the board in allignment, then solder the pads to the actual potentiometer legs of the joysticks.
+
+# PCB Images
+
+![PCB Front](images/front.jpg)
+
+![PCB Back](images/back.jpg)
