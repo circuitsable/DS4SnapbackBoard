@@ -1,6 +1,6 @@
 # DS4SnapbackBoard
 
-This is a PCB that latches onto the bottom of your joysticks on a Dualshock 4 intended to get rid of controller snapback.
+This is a PCB that latches onto the bottom of your joysticks on a DualShock 4 intended to get rid of controller snapback.
 
 ![Installed mod](images/finished.jpg)
 
@@ -14,7 +14,7 @@ I designed this because several of my DS4 controllers have had issues with snapb
 
 This mod uses 0805 1uF ceramic SMD capacitors, since I wanted to make the capacitors somewhat easy to install and 1uF is a good catchall value to stop snapback. Different boards for different capacitor sizes can very easily be made, make an issue for a different size if you would like one.
 
-This mod should not require much experience soldering, but if the capacitor sizee is too small, create an issue on this repo requesting a bigger size. Editing the PCB yourself to use bigger capacitors should be very easy as well.
+This mod should not require much experience soldering, but if the capacitor size is too small, create an issue on this repo requesting a bigger size. Editing the PCB yourself to use bigger capacitors should be very easy as well.
 
 # What you'll need
 
@@ -30,6 +30,6 @@ Solder the capacitors to their two available footprints on the PCB, allign the P
 
 # PCB Images
 
-![PCB Front](images/front.JPG)
+![PCB Front](images/front.jpg)
 
-![PCB Back](images/back.JPG)
+![PCB Back](images/back.jpg)
