@@ -24,9 +24,11 @@ The PCB, of which gerbers are available for in the repo. The thinner you can mak
 
 Basic soldering equipment.
 
+Hobby knife.
+
 # Installation
 
-Solder the capacitors to their two available footprints on the PCB, allign the PCB in the middle of the joystick footprint on the back of your DS4 board, solder the 4 big pads first to keep the board in allignment, then solder the pads to the actual potentiometer legs of the joysticks.
+Touch up the castilated holes of your PCB, as they will most certainly arrive with excess material from the pads being drilled. Solder the capacitors to their two available footprints on the PCB, align the PCB in the middle of the joystick footprint on the back of your DS4 board, solder the 4 big pads first to keep the board in alignment, then solder the pads to the actual potentiometer legs of the joysticks.
 
 # PCB Images
 
