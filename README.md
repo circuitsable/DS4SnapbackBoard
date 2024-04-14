@@ -30,6 +30,6 @@ Solder the capacitors to their two available footprints on the PCB, allign the P
 
 # PCB Images
 
-![PCB Front](images/front.jpg)
+![PCB Front](images/front.JPG)
 
-![PCB Back](images/back.jpg)
+![PCB Back](images/back.JPG)
