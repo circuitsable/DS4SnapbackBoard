@@ -46,7 +46,7 @@
       (usegerberextensions false)
       (usegerberattributes true)
       (usegerberadvancedattributes true)
-      (creategerberjobfile true)
+      (creategerberjobfile false)
       (dashed_line_dash_ratio 12.000000)
       (dashed_line_gap_ratio 3.000000)
       (svgprecision 4)
@@ -69,9 +69,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "C:/Users/steve/Downloads/gerbers/")
     )
   )
 
@@ -125,11 +125,11 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp ec0b4918-3eb8-4e7a-926e-88620205b57e))
     (fp_line (start 1 0.625) (end -1 0.625)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 7144b7e8-90e8-4c76-bd9d-c645f9b3d7cd))
-    (pad "1" smd roundrect (at -1.0375 0 270) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
+    (pad "1" smd roundrect (at -1.0375 0 270) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 1 "Net-(U1-V)") (pintype "passive") (tstamp 85a8a01e-7850-4e7b-916b-caceebfbbe7f))
-    (pad "2" smd roundrect (at 1.0375 0 270) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
+    (pad "2" smd roundrect (at 1.0375 0 270) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 2 "Net-(U1-V-)") (pintype "passive") (tstamp 72d06825-896f-406c-b67d-bdf3c45fd83a))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -179,11 +179,11 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp ae398a32-5f33-4750-88ab-9caa2fe387d4))
     (fp_line (start 1 0.625) (end -1 0.625)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp ecbee245-4baa-41a8-9509-caf46aa0f10a))
-    (pad "1" smd roundrect (at -1.0375 0 90) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
+    (pad "1" smd roundrect (at -1.0375 0 90) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 3 "Net-(U1-H)") (pintype "passive") (tstamp 2e27f963-ee59-4b68-b22b-02e5d605de4f))
-    (pad "2" smd roundrect (at 1.0375 0 90) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
+    (pad "2" smd roundrect (at 1.0375 0 90) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 4 "Net-(U1-H-)") (pintype "passive") (tstamp 07dffe00-0a81-4b6c-ac96-e55a7fd27089))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -205,10 +205,6 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 4d74d785-b945-4077-886b-c9cbde2c0d91)
     )
-    (pad "" np_thru_hole circle (at -8.89 2.54 270) (size 1.778 1.778) (drill 1.778) (layers "F&B.Cu" "*.Mask") (tstamp 91175463-7730-419a-918d-e9ddb9c06036))
-    (pad "" np_thru_hole circle (at -3.175 5.8748 270) (size 1.778 1.778) (drill 1.778) (layers "F&B.Cu" "*.Mask") (tstamp 11edafef-04a5-40f2-9559-d4d35b750e4f))
-    (pad "" np_thru_hole circle (at 2.555 -8.8752 270) (size 1.778 1.778) (drill 1.778) (layers "F&B.Cu" "*.Mask") (tstamp d990749a-136c-4d05-894d-6d51271d0a77))
-    (pad "" np_thru_hole circle (at 3.185 5.8548 270) (size 1.778 1.778) (drill 1.778) (layers "F&B.Cu" "*.Mask") (tstamp 08b3c877-3ef5-47be-be86-f881b7aba9d4))
     (pad "H2" thru_hole circle (at 0.015 -8.8952 270) (size 2.028 2.028) (drill 1.014) (property pad_prop_castellated) (layers "*.Cu" "*.Mask")
       (net 3 "Net-(U1-H)") (pinfunction "H") (pintype "output") (tstamp ab3916b9-ece3-4a85-93e6-484ce4dbd597))
     (pad "H3" thru_hole circle (at -2.525 -8.8752 270) (size 2.028 2.028) (drill 1.014) (property pad_prop_castellated) (layers "*.Cu" "*.Mask")
@@ -883,7 +879,7 @@
   (gr_text "DO NOT EAT" (at 88.5 78) (layer "B.SilkS") (tstamp ad3539ff-5943-4355-8f3d-02ad0f4fa966)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left bottom mirror))
   )
-  (gr_text "Stevano's\nDualShock 4\nSnapback\nCapacitor\nBoard V1.0" (at 86 72.5) (layer "B.SilkS") (tstamp d3b9355c-a0e3-4bf2-8e6c-79044007daaf)
+  (gr_text "sable's\nDualShock 4\nSnapback\nCapacitor\nBoard V1.1" (at 86 72.5) (layer "B.SilkS") (tstamp d3b9355c-a0e3-4bf2-8e6c-79044007daaf)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
 
@@ -896,10 +892,4 @@
   (segment (start 88 71.1625) (end 93.360724 71.1625) (width 0.25) (layer "F.Cu") (net 4) (tstamp 08476236-53ba-4b99-98b3-af7c7d2b18dd))
   (segment (start 93.360724 71.1625) (end 93.673224 71.475) (width 0.25) (layer "F.Cu") (net 4) (tstamp 0cbd9e51-813d-4f95-b68c-144030df7648))
 
-  (group "" (id cb654c15-b03d-4eb5-844a-dd08d4b6b979)
-    (members
-      7a339b87-1b18-4104-ba1b-928e2e3e2476
-      cb7d4074-78d4-4b05-bf72-795e81b908d6
-    )
-  )
 )
