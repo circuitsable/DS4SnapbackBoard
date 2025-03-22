@@ -18,7 +18,7 @@ This mod should not require much experience soldering, but if the capacitor size
 
 # What you'll need
 
-he PCB, of which gerbers are available for in the [releases](https://github.com/circuitsable/DS4SnapbackBoard/releases/tag/gerbers). The thinner you can make the PCB, the better, 0.8mm is a good thickness. The PCB can be ordered from any board house, but some may not like the castellated holes or charge extra for them. [Oshpark](https://oshpark.com/#services) will do castilated holes, has 0.8mm availability and is quite cheap, but the finished boards may require post processing with a small knife.
+The PCB, of which gerbers are available for in the [releases](https://github.com/circuitsable/DS4SnapbackBoard/releases/tag/gerbers). The thinner you can make the PCB, the better, 0.8mm is a good thickness. The PCB can be ordered from any board house, but some may not like the castellated holes or charge extra for them. [Oshpark](https://oshpark.com/#services) will do castilated holes, has 0.8mm availability and is quite cheap, but the finished boards may require post processing with a small knife.
 
 2 0805 1uF SMD Ceramic Capacitors. Their voltage rating does not matter. They can be sourced from anywhere, here are some examples: [Aliexpress](https://www.aliexpress.us/item/2251832778239041.html), [Ebay](https://www.ebay.com/itm/195680390537), [Mouser](https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL21B105KPFNNNE?qs=349EhDEZ59rb3V94UrmRdQ%3D%3D)
 
