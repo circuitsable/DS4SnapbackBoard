@@ -8,7 +8,7 @@ This is a PCB that latches onto the bottom of your joysticks on a DualShock 4 in
 
 Never heard of snapback? Here is a [video](https://www.youtube.com/watch?v=O4rigBTxgPM) describing it and why it is a problem.
 
-I designed this because several of my DS4 controllers have had issues with snapback and the issues it entails, and because I prefered a cleaner result than through hole ceramic capacitors lying on the back of my controller's PCB.
+I designed this because several of my DS4 controllers have had issues with snapback and the issues it entails, and because I prefered a cleaner result than through hole ceramic capacitors lying on the back of my controller's PCB. It connects the signal & ground pins of each axis' potentiometer to dampen the oscillations of the snapback.
 
 ![Ugly mod](images/ugly.jpg)
 
